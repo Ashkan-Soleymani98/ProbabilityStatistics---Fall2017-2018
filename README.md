@@ -4,7 +4,7 @@ Undergraduate Course (Fall 2017-2018) <br />
 Sharif University of Technology <br />
 Computer Engineering Department <br />
 Instructor: Dr. Mohammad Gharib <br />
-Practical Assignments and Course Project <br />
+Practical Assignments and Course Project (R) <br />
 
 
 Assignments: <br /> 
