@@ -15,3 +15,7 @@ Assignments: <br />
     HW4: IMDB +5000 Film Dataset Simple Analysis <br />
     HW5: Confidence Interval & Hypothesis Testing <br />
     HW6: General Math Scores Analysis & Hypothesis Testing <br />
+
+Project: <br />
+    Phase1: Pseudo-Random Generator (Xorshift and Mersenne Twister) + Distribution Generator <br />
+    Phase2: R Package and GUI (Graphical User Interface) Employing Shiny Packasge
