@@ -13,8 +13,8 @@ Assignments: <br />
     HW2: Linear Congruential Generator & Midsquare Method <br />
     HW3: Visualization and Data Analysis with ggplot2 <br />
     HW4: IMDB +5000 Film Dataset Simple Analysis <br />
-    HW5: Confidence Interval & Hypothesis Testing <br />
-    HW6: General Math Scores Analysis & Hypothesis Testing <br />
+    HW5: Confidence Interval & Hypothesis Testing for Heterochromatin in cells Dataset<br />
+    HW6: General Math Scores Dataset Analysis & Hypothesis Testing & MAL Estimator<br />
 
 Project: <br />
     Phase1: Pseudo-Random Generator (Xorshift and Mersenne Twister) + Distribution Generator <br />
